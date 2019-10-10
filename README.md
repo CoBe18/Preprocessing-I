@@ -1,4 +1,4 @@
-# Preprocessing I: Digital Resume
+# Preprocessing I: Digital Resume - Do your work please! - Itel :)
 
 For this project you will be building a digital resume from scratch. You will be required to use specific preprocessing skills to accomplish your tasks.  
 
